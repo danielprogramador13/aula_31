@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 const Body = Matter.Body;
 const Composites = Matter.Composites;
 const Composite = Matter.Composite;
-
+const important = 0;
 let engine;
 let world;
 
